@@ -11,5 +11,6 @@ def findMaxConsecutiveOnes(nums=[]):
         else:
             count = 0
     return max_con_ones
+    
 
 print(findMaxConsecutiveOnes(a))
